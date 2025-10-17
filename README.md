@@ -36,8 +36,5 @@ It was generated based on your uploaded project brief. For reference: the upload
 ## API
 - `GET /recommend/{user_id}?limit=10` — returns recommended products and a short LLM-generated explanation.
 
-## Notes
-- LLM explanations are powered by the OpenAI API if `OPENAI_API_KEY` is set in environment variables. Otherwise a local template explanation is returned.
-- The recommender is a simple item-based/content-aware recommender designed for demo purposes. Replace with a production model as needed.
 
 
