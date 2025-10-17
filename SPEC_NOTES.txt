@@ -1,0 +1,1 @@
+Project brief used to generate this repo: E-commerce Product Recommender (uploaded by user). See conversation file reference.
