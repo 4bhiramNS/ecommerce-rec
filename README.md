@@ -40,5 +40,4 @@ It was generated based on your uploaded project brief. For reference: the upload
 - LLM explanations are powered by the OpenAI API if `OPENAI_API_KEY` is set in environment variables. Otherwise a local template explanation is returned.
 - The recommender is a simple item-based/content-aware recommender designed for demo purposes. Replace with a production model as needed.
 
----
-Generated for: E-commerce Product Recommender project (project brief provided). fileciteturn0file0
+
